@@ -35,4 +35,4 @@
 
   - name: install nodejs dependences
     community.general.npm:
-    path: /app
+     path: /app
